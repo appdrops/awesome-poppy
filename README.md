@@ -23,6 +23,7 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 - [Protocol Overview](https://personalagentprotocol.org/docs/overview) - Explains the goals, access controls, and design principles.
 - [Specification](https://personalagentprotocol.org/docs/spec) - Authoritative Draft 0.1 covering discovery, sessions, authorization, web browsing, APIs, and conversations.
 - [Open Topics](https://personalagentprotocol.org/docs/open-topics) - Tracks areas the draft does not yet cover, including payments, push notifications, and attachments.
+- [Specification Repository](https://github.com/personal-agent-protocol/personal-agent-protocol) - Official source of personalagentprotocol.org, where the authors take spec feedback, reviews, and implementation reports as GitHub issues.
 
 ## Introductions
 
@@ -50,6 +51,8 @@ These are official documents for the draft, not evidence of deployed features.
 
 - [PAP Checker](https://papchecker.com) - Community web checker for Poppy Draft 0.1 discovery, OAuth metadata, OpenAPI descriptions, and MCP resource metadata, with per-rule reports and a directory of sites publishing `poppy.json`.
 - [poppy-validator](https://github.com/tusharck/poppy-validator) - Unofficial Python CLI for Poppy Draft 0.1 discovery documents, with local-file and live-URL checks, JSON Schema validation, OAuth metadata cross-checks, and JSON reports for CI.
+- [PAP Playground](https://papplayground.com) - Community personal agent for Draft 0.1 that runs a task at a company, or steps through the protocol one call at a time, with direct, device, and mediated sign-in, OpenAPI and MCP calls, website sessions, conversations, and operation approvals; every request and response is recorded.
+- [PAP Sandbox](https://papsandbox.com) - Community test companies for Draft 0.1: three stores with discovery, direct, device, and mediated sign-in, OpenAPI APIs (one also offers MCP), website sessions, a company agent each, and the Operations extension; nothing is charged or shipped.
 
 ## Related Protocols
 
